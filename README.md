@@ -14,7 +14,7 @@ El objetivo del proyecto consiste en conseguir llevar a cabo la representación 
 
 Para conocer la correlación entre tablas, adjunto el siguiente código que deberá ser copiado en la web de [DbDiagram](https://dbdiagram.io/home):
 
-'''
+```
 Table countries as C {
   CountryID int [pk]
   CountryName varchar
@@ -98,4 +98,3 @@ Table alliance_memberships as AM {
   AllianceID int [ref: > AL.AllianceID]
   CountryID int [ref: > C.CountryID]
   Note: 'Memberships of countries in security alliances'}
-'''
