@@ -15,8 +15,6 @@ El objetivo del proyecto consiste en conseguir llevar a cabo la representación 
 Para conocer la correlación entre tablas, adjunto el siguiente código que deberá ser copiado en la web de [DbDiagram](https://dbdiagram.io/home):
 
 '''
-// Definition of tables and relationships in the International Security Data Model
-
 Table countries as C {
   CountryID int [pk]
   CountryName varchar
