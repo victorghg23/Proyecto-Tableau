@@ -15,7 +15,7 @@ El objetivo del proyecto consiste en conseguir llevar a cabo la representación 
 
 Única y exclusivamente he hecho uso de python para representar los dataframe necesarios, y así poder alcanzar a conocer la relación entre tablas, y una vez cumplido este punto, añadir los archivos .csv en la fuente de datos de Tableau para así poder comenzar su representación.
 
-Para conocer la correlación entre tablas, adjunto el siguiente código que deberá ser copiado en la web de [DbDiagram](https://dbdiagram.io/home):
+Para conocer la correlación entre las tablas que se encuentran en la carpeta **data**, adjunto el siguiente código que deberá ser copiado en la web de [DbDiagram](https://dbdiagram.io/home):
 
 ```
 Table countries as C {
