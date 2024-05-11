@@ -1,10 +1,10 @@
 # _**PROYECTO TABLEAU: ALIANZAS INTERNACIONALES**_ 🎖️
 
-## Acceso al Proyecto 
+## Acceso al Proyecto 👨🏻‍💻
 
 Para poder hacer uso del proyecto y visualizarlo, por favor, haga click en el siguiente enlace que le dirigirá a [Tableau Public](https://public.tableau.com/shared/DN2YPZMQ4?:display_count=n&:origin=viz_share_link).
 
-## Estado del Proyecto 👨🏻‍💻
+## Estado
 
 Proyecto Final del segundo modulo de Ironhack
 
